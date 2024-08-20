@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @GabriielToledo and I'm 20y old!!
+- 👀 I’m interested in projects that adress data science, databse nd back-end programming.
+- 🌱 I’m currently learning data science and estatistical, databse with oracle and sql, java, dynamic programming, network architect and agile methodology.
+- 💞️ I’m looking to collaborate on data analyst.
+- 📫 How to reach me: my linkedin and email are, respectively, Gabriel Toledo and rm551654@fiap.com.br.
+- 😄 Pronouns: He, His
+- ⚡ Fun fact: I'm a person communicative, sociable and extroverted.
